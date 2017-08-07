@@ -1,0 +1,19 @@
+DCT/FFT
+https://docs.scipy.org/doc/scipy/reference/fftpack.html
+http://bugra.github.io/work/notes/2014-07-12/discre-fourier-cosine-transform-dft-dct-image-compression/
+https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/assignments/MITRES_6_007S11_hw09_sol.pdf
+http://mathworld.wolfram.com/FourierTransform.html
+
+GPU Profiling
+https://stackoverflow.com/questions/7875607/how-to-calculate-gflops-of-a-kernel
+https://stackoverflow.com/questions/7876006/how-to-calculate-the-achieved-bandwidth-of-a-cuda-kernel
+https://devtalk.nvidia.com/default/topic/973490/visual-profiler/can-i-get-gpus-profile-of-tensorflows-mnist-by-nvidia-visual-profiler-/
+
+CNN
+http://yeephycho.github.io/2016/08/31/A-reminder-of-algorithms-in-Convolutional-Neural-Networks-and-their-influences-III/
+
+Adam
+http://ruder.io/optimizing-gradient-descent/index.html#whichoptimizertochoose
+
+MIT signal processing
+https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/assignments/
